@@ -40,7 +40,7 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default: SudKul
+    Default: Glitched-Manual
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
